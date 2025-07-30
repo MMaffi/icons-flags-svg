@@ -32,4 +32,20 @@ Check out a sample of the available flags below:
 You can directly use the flags in your web project with an `<img>` tag:
 
 ```html
-<img src="svg/br.svg" alt="Brazil Flag" width="32">
+<img src="svg/br.svg" alt="Brazil Flag">
+```
+
+---
+
+## 📁 Structure
+
+- `flags/4x3/` – Flags in 4:3 ratio, named using the ISO 3166-1 alpha-2 country code (`br.svg`, `us.svg`, `jp.svg`)
+- `flags/1x1/` – Flags in 1:1 square ratio, also named using the ISO country code
+
+---
+
+## 🙌 Contribute
+
+Found this useful? Leave a ⭐ on the repository!
+
+Fixes, suggestions, or new flags are welcome via Pull Requests or Issues.
